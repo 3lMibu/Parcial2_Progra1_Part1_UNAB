@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace Runnig_Dinosaur
 {
     //Miguel Daniel Reyes Martinez
-    //Maynor Antonio Torres Hernandez
+   
 
     //NOTA: ya se encuentra mayormente funcional, los niveles serian aumentos en la velocidad al alcanzar X puntaje
     //detalles como musica y sonidos estan aun pendientes
